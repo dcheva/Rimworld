@@ -251,7 +251,7 @@
     </li>
     <li>
       <key>EditingPrecepts</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>QRY_ReclaimingSoil</key>
@@ -279,7 +279,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsBasic</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SidearmsDropping</key>
@@ -291,7 +291,7 @@
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsAdvancedRanged</key>
@@ -355,15 +355,15 @@
     </li>
     <li>
       <key>GUC_Animal_Handling</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BM_Mounting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>BM_Enemy_Mounting</key>
-      <value>0</value>
+      <value>1</value>
     </li>
   </knowledge>
 </ConceptKnowledge>
