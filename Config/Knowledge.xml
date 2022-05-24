@@ -313,5 +313,57 @@
       <key>Concept_CEOverride</key>
       <value>0</value>
     </li>
+    <li>
+      <key>WTH_Hacking</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Platform</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Modification</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Caravanning</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Maintenance</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Power</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Concept_MechanoidParts</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Concept_RogueAI</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Concept_RogueAI_LevelUp</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>WTH_Concept_RogueAI_Mood</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GUC_Animal_Handling</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Mounting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Enemy_Mounting</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>
