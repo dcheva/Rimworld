@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.3.3326 rev562</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>majorhoff.rimthreaded</li>
+    <li>ghostrolly.rim73</li>
+    <li>ludeon.rimworld</li>
+    <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
+    <li>mlie.dune</li>
+    <li>codeoptimist.jobsofopportunity</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+    <li>tidal.morevanilla.textures</li>
+    <li>m00nl1ght.geologicallandforms</li>
+    <li>denev.resumablejobprogress</li>
+    <li>dubwise.dubsperformanceanalyzer</li>
+  </activeMods>
+  <knownExpansions>
+    <li>ludeon.rimworld.ideology</li>
+    <li>ludeon.rimworld.royalty</li>
+  </knownExpansions>
+</ModsConfigData>
