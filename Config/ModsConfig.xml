@@ -3,20 +3,16 @@
   <version>1.3.3326 rev562</version>
   <activeMods>
     <li>brrainz.harmony</li>
-    <li>majorhoff.rimthreaded</li>
-    <li>ghostrolly.rim73</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
-    <li>mlie.dune</li>
-    <li>codeoptimist.jobsofopportunity</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
-    <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
-    <li>tidal.morevanilla.textures</li>
-    <li>m00nl1ght.geologicallandforms</li>
-    <li>denev.resumablejobprogress</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>majorhoff.rimthreaded</li>
+    <li>ghostrolly.rim73</li>
     <li>dubwise.dubsperformanceanalyzer</li>
-    <li>vanillaexpanded.vhe.beards</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>vanillaexpanded.vfea</li>
+    <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
     <li>vanillaexpanded.vanillatradingexpanded</li>
     <li>vanillaexpanded.ideo.relicsandartifacts</li>
     <li>vanillaexpanded.ideo.iconsandsymbols</li>
@@ -42,6 +38,8 @@
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vanillaexpanded.vwems</li>
     <li>vanillaexpanded.vaeendandext</li>
+    <li>rimfridge.kv.rw</li>
+    <li>lwm.deepstorage</li>
     <li>oskarpotocki.vfe.mechanoid</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
     <li>vanillaexpanded.vbrewe</li>
@@ -85,6 +83,40 @@
     <li>vanillaexpanded.vappe</li>
     <li>vanillaexpanded.vfemedical</li>
     <li>frozensnowfox.vanillabionicsexpansion</li>
+    <li>tidal.morevanilla.textures</li>
+    <li>mlie.dune</li>
+    <li>bodlosh.weaponstats</li>
+    <li>daniledman.hardworkinganimals</li>
+    <li>petetimessix.simplesidearms</li>
+    <li>unlimitedhugs.allowtool</li>
+    <li>hatti.qualitybuilder</li>
+    <li>fluffy.medicaltab</li>
+    <li>mlie.muzzyutils</li>
+    <li>daniledman.combatupdate</li>
+    <li>void.charactereditor</li>
+    <li>dubwise.dubsmintminimap</li>
+    <li>roolo.dualwield</li>
+    <li>mastertea.randomplus</li>
+    <li>uuugggg.replacestuff</li>
+    <li>tradingspot.kv.rw</li>
+    <li>daniledman.fastregen</li>
+    <li>ratys.rtfuse</li>
+    <li>gt.sam.tilledsoil</li>
+    <li>mlie.mechalitcore</li>
+    <li>mlie.mechalitequipmentfaction</li>
+    <li>daniledman.carpets</li>
+    <li>mlie.morefactioninteraction</li>
+    <li>mlie.animalhusbandryraids</li>
+    <li>mlie.simplymorebridges</li>
+    <li>daniledman.cyberfauna</li>
+    <li>telkir.tmods.morefloors</li>
+    <li>mlie.animalharvestingspot</li>
+    <li>mlie.assimpleasarack</li>
+    <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>murmur.walllight</li>
+    <li>codeoptimist.jobsofopportunity</li>
+    <li>denev.resumablejobprogress</li>
+    <li>m00nl1ght.geologicallandforms</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.ideology</li>

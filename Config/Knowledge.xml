@@ -277,5 +277,41 @@
       <key>SteamDeckControlsGame</key>
       <value>0</value>
     </li>
+    <li>
+      <key>Concept_SimpleSidearmsBasic</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SidearmsDropping</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SidearmsMissing</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SimpleSidearmsPreference</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SimpleSidearmsAdvancedRanged</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SimpleSidearmsAdvancedMelee</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SimpleSidearmsAdvancedDrafted</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_SimpleSidearmsLosingWeapons</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_CEOverride</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>
