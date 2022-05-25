@@ -365,5 +365,21 @@
       <key>BM_Enemy_Mounting</key>
       <value>1</value>
     </li>
+    <li>
+      <key>GuestBeds</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>RecruitGuest</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GuestWork</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Hospitality</key>
+      <value>1</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>
